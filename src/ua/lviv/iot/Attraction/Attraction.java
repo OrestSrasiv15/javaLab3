@@ -31,7 +31,7 @@ public class Attraction {
 		this.maxNumberOfVisitors = maxNumberOfVisitors;
 	}
 	
-	public DangerLevel getDangerlevel() {
+	public DangerLevel getDangerLevel() {
 		return dangerLevel;
 	}
 	
